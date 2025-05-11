@@ -1,3 +1,4 @@
-.eclipse/
-.build/
+eclipse/
+build/
 .gradle/
+gradle/
